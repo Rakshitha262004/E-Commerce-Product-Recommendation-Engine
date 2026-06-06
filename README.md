@@ -121,9 +121,13 @@ Open `http://localhost:8501` in your browser.
 
 | Dashboard | Category Picks |
 |---|---|
-| ![main](images/dashboard.png) | ![cat](images/category_recs.png) |
+| ![main](images/1.png) | ![cat](images/2.png) |
+| ![main](images/3.png) | ![cat](images/4.png) |
 
 ---
+
+## Drive Demo Video
+Link : https://drive.google.com/file/d/1Wtn87Wxq9vJCcKoGXYeWkzT8YDQLbYkq/view?usp=sharing
 
 ## 🎓 Learning Outcomes
 
