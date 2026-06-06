@@ -142,8 +142,8 @@ Link : https://drive.google.com/file/d/1Wtn87Wxq9vJCcKoGXYeWkzT8YDQLbYkq/view?us
 
 ## 👤 Author
 
-**Rakshitha A S** | USN: 1AH23CY042  
-B.E. Cybersecurity · ACS College of Engineering, Bengaluru · VTU  
+**Rakshitha A S** 
+B.E. Cybersecurity 
 GitHub: [github.com/Rakshitha262004](https://github.com/Rakshitha262004)
 
 ---
