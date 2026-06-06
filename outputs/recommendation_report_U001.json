@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-06-05 12:35:23",
+  "user": {
+    "id": "U001",
+    "name": "Raksh",
+    "interests": [
+      "Electronics",
+      "Fitness"
+    ],
+    "total_purchases": 2,
+    "cart_items": 2,
+    "search_history_count": 3
+  },
+  "top_recommendations": [
+    {
+      "rank": 1,
+      "product_id": "P002",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 2499,
+      "rating": 4.3,
+      "affinity_score": 11.4262
+    },
+    {
+      "rank": 2,
+      "product_id": "P015",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 7999,
+      "rating": 4.7,
+      "affinity_score": 9.7786
+    },
+    {
+      "rank": 3,
+      "product_id": "P003",
+      "name": "Noise Cancelling Headphones",
+      "category": "Electronics",
+      "price": 5999,
+      "rating": 4.7,
+      "affinity_score": 9.7786
+    },
+    {
+      "rank": 4,
+      "product_id": "P008",
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "price": 1299,
+      "rating": 4.5,
+      "affinity_score": 8.1071
+    },
+    {
+      "rank": 5,
+      "product_id": "P018",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 799,
+      "rating": 4.3,
+      "affinity_score": 6.3405
+    }
+  ],
+  "category_recommendations": {
+    "Electronics": [
+      {
+        "product_id": "P002",
+        "name": "Bluetooth Speaker",
+        "score": 11.4262
+      },
+      {
+        "product_id": "P003",
+        "name": "Noise Cancelling Headphones",
+        "score": 9.7786
+      },
+      {
+        "product_id": "P015",
+        "name": "Smart Watch",
+        "score": 9.7786
+      }
+    ],
+    "Fitness": [
+      {
+        "product_id": "P013",
+        "name": "Protein Powder",
+        "score": 4.5357
+      },
+      {
+        "product_id": "P012",
+        "name": "Yoga Mat",
+        "score": 4.4357
+      },
+      {
+        "product_id": "P014",
+        "name": "Water Bottle 1L",
+        "score": 4.3857
+      }
+    ]
+  },
+  "similar_products": {
+    "P001": [
+      {
+        "product_id": "P002",
+        "name": "Bluetooth Speaker",
+        "similarity": 0.6
+      },
+      {
+        "product_id": "P003",
+        "name": "Noise Cancelling Headphones",
+        "similarity": 0.3333
+      },
+      {
+        "product_id": "P015",
+        "name": "Smart Watch",
+        "similarity": 0.3333
+      }
+    ],
+    "P007": [
+      {
+        "product_id": "P008",
+        "name": "Gaming Mouse",
+        "similarity": 0.1429
+      }
+    ]
+  }
+}

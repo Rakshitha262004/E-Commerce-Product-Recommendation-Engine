@@ -1,0 +1,22 @@
+[
+  {"id": "P001", "name": "Wireless Earbuds", "category": "Electronics", "price": 1499, "rating": 4.5, "tags": ["audio", "wireless", "bluetooth", "earphones"]},
+  {"id": "P002", "name": "Bluetooth Speaker", "category": "Electronics", "price": 2499, "rating": 4.3, "tags": ["audio", "wireless", "bluetooth", "speaker"]},
+  {"id": "P003", "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 5999, "rating": 4.7, "tags": ["audio", "headphones", "noise-cancelling", "wireless"]},
+  {"id": "P004", "name": "Smartphone Stand", "category": "Accessories", "price": 399, "rating": 4.1, "tags": ["phone", "stand", "desk", "accessories"]},
+  {"id": "P005", "name": "USB-C Fast Charger", "category": "Accessories", "price": 799, "rating": 4.4, "tags": ["charger", "usb-c", "fast-charging", "accessories"]},
+  {"id": "P006", "name": "Laptop Backpack", "category": "Bags", "price": 1999, "rating": 4.6, "tags": ["laptop", "backpack", "travel", "bag"]},
+  {"id": "P007", "name": "Mechanical Keyboard", "category": "Electronics", "price": 3499, "rating": 4.8, "tags": ["keyboard", "mechanical", "gaming", "typing"]},
+  {"id": "P008", "name": "Gaming Mouse", "category": "Electronics", "price": 1299, "rating": 4.5, "tags": ["mouse", "gaming", "wireless", "rgb"]},
+  {"id": "P009", "name": "Monitor Stand", "category": "Accessories", "price": 1199, "rating": 4.2, "tags": ["monitor", "stand", "desk", "ergonomic"]},
+  {"id": "P010", "name": "Webcam HD", "category": "Electronics", "price": 2999, "rating": 4.4, "tags": ["webcam", "hd", "video", "streaming"]},
+  {"id": "P011", "name": "Running Shoes", "category": "Footwear", "price": 2499, "rating": 4.6, "tags": ["shoes", "running", "sports", "fitness"]},
+  {"id": "P012", "name": "Yoga Mat", "category": "Fitness", "price": 899, "rating": 4.3, "tags": ["yoga", "fitness", "exercise", "mat"]},
+  {"id": "P013", "name": "Protein Powder", "category": "Fitness", "price": 1699, "rating": 4.5, "tags": ["protein", "fitness", "nutrition", "supplement"]},
+  {"id": "P014", "name": "Water Bottle 1L", "category": "Fitness", "price": 499, "rating": 4.2, "tags": ["water", "bottle", "fitness", "hydration"]},
+  {"id": "P015", "name": "Smart Watch", "category": "Electronics", "price": 7999, "rating": 4.7, "tags": ["smartwatch", "fitness", "wireless", "bluetooth"]},
+  {"id": "P016", "name": "Kindle E-Reader", "category": "Electronics", "price": 9999, "rating": 4.8, "tags": ["kindle", "ereader", "reading", "books"]},
+  {"id": "P017", "name": "Desk Lamp LED", "category": "Accessories", "price": 699, "rating": 4.1, "tags": ["lamp", "led", "desk", "lighting"]},
+  {"id": "P018", "name": "Wireless Mouse", "category": "Electronics", "price": 799, "rating": 4.3, "tags": ["mouse", "wireless", "office", "accessories"]},
+  {"id": "P019", "name": "Compression Socks", "category": "Footwear", "price": 299, "rating": 4.0, "tags": ["socks", "compression", "sports", "fitness"]},
+  {"id": "P020", "name": "Power Bank 20000mAh", "category": "Electronics", "price": 1899, "rating": 4.6, "tags": ["powerbank", "charging", "portable", "accessories"]}
+]

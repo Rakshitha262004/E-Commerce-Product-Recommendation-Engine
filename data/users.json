@@ -1,0 +1,6 @@
+[
+  {"id": "U001", "name": "Raksh", "age": 21, "interests": ["Electronics", "Fitness"]},
+  {"id": "U002", "name": "Priya", "age": 23, "interests": ["Fitness", "Footwear"]},
+  {"id": "U003", "name": "Arjun", "age": 25, "interests": ["Electronics", "Bags"]},
+  {"id": "U004", "name": "Sneha", "age": 22, "interests": ["Accessories", "Fitness"]}
+]
